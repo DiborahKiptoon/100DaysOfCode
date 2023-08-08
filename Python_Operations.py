@@ -3,23 +3,23 @@ b = 5
 
 #Addition
 c = a + b
-#print(c)
+print(c)
 
 #Subtraction
 d = a - b
-#print(d)
+print(d)
 
 #Multiplication
 e = a * b
-#print(e)
+print(e)
 
 #Division
 f = a / b
-#print(b)
+print(b)
 
 #Modulus
 g = a % b
-#print(g)
+print(g)
 
 #Division floor
 h = a // b
