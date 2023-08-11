@@ -34,7 +34,7 @@ print("23 // 7  >= 9 is", ans_4)
 
 #7 + 3 % 2 != True
 var_i = 7
-var_j = 3
+var_j = 2
 var_k = 2
 
 ans_5 = var_i + var_j % var_k != True
