@@ -1,0 +1,11 @@
+#About me continuation
+print("Hi, Diborah")
+print("Hi")
+print("Why did you decide to attend this bootcamp?")
+print("I want to learn more about Python and levele up my skilss")
+print("What do you love about Python?")
+print("Its readability and symplicity")
+print("What do you hope to have gained by the end of the bootcamp?")
+print("I hope by the end of this bootcamp, I have fully understood Python and be able to use my skills to create solutions")
+print("Well, that's really great. Thank you, Diborah")
+print("You're welcome")
