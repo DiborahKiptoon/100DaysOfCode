@@ -1,6 +1,4 @@
 #Question 1: You are about to interview a number of candidates for a job offer at the company you work at or at your company. There are a number of repetitive operations that you need to do.
-#Identify and list the Repetitive operations
-#Describe how you will use the while() loop in each operation
 #Implement the while() loops in python code
 
 
