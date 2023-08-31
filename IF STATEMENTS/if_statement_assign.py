@@ -13,7 +13,7 @@ if items < 50:
     max_items_affordable = items
 else:
     budget = budget_2
-    max_items_affordable = budget_2 // cost_per_item  # Assuming each item costs the same
+    #max_items_affordable = budget_2 // cost_per_item  # Assuming each item costs the same
 
 # Calculate how many items can be bought with the budget
 cost_per_item = budget / max_items_affordable
