@@ -20,4 +20,5 @@ var_name.close()
 
 file_add = open("statements.txt", "r")
 
-
+for i in var_name: 
+    print(i)
