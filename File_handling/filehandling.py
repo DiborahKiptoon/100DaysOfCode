@@ -15,6 +15,7 @@ print(file_read.read())
 var_name = open("statements.txt", "a")
 var_name.write("I have received a call\n")
 var_name.write("I am proud of myself \n")
+var_name.write("Today's lesson was great \n")
 
 var_name.close()
 
