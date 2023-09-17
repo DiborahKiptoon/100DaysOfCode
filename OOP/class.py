@@ -50,7 +50,7 @@ class car:
     part_2 = 'wheels'
     part_3 = 'horse power'
     part_4 = 'Bumper'
-    part_4 = 'Bumper'
-    part_4 = 'Bumper'
+    part_4 = 'Windscreen'
+    part_4 = 'engine'
 
     #
