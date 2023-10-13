@@ -37,8 +37,8 @@ import array as r
 new_array = r.array("k")
 var_a = "h"
 var_b = "q"
-var_c = input("Enter new character valu: ")
-var_d = input("Enter new character valu: ")
+var_c = input("Enter new character value: ")
+var_d = input("Enter new character value: ")
 
 new_array.insert(1,var_a)
 print(new_array)
