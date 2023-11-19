@@ -37,6 +37,7 @@ lappy = Laptop ("Asus", 0, 0)
 
 
 print(lappy.getPrice())
+print(lappy.getName())
 
    
     

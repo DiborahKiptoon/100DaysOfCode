@@ -1,6 +1,6 @@
 #Classes in Python
 #Syntax
-'''class class_name:
+class class_name:
       stateents
       or
       def func():
@@ -9,7 +9,7 @@
 
 create class_obj
 call on class_obj             
-'''
+
 
 #create a class holding human attributes
 class human:
@@ -53,4 +53,4 @@ class car:
     part_4 = 'Windscreen'
     part_4 = 'engine'
 
-    #
+    
